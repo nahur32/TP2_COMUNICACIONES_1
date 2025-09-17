@@ -1,0 +1,80 @@
+% para agregar la carpeta de las imagenes
+%\graphicspath{{./nombre de la carpeta/}}
+
+%el codigo principal solo contiene el tipo de documento, la caratula y la forma de llamar a los otros archivos, asi como imprimir bibilografia y el indice.
+
+\documentclass[11pt,a4paper]{article}
+\input{librerias} %llama al archivo donde estan todas las librerias include
+
+
+%%encabezado
+\rhead{\begin{picture}(0,0)	\put(-22,0) {\includegraphics[height=1cm]{caratula/logounsl.png}} \end{picture}}
+\lhead{\begin{picture}(0,0)	\put(0,0) {\includegraphics[height=1cm]{caratula/logo_depto.jpg}} \end{picture}}
+\chead{\vspace{-.05cm}\textcolor{gray}{Sistemas de Comunicaciones, teoría de la información y Análisis de Señales - TP N.$^o$1} \vspace{.25cm}}
+
+%%
+%pie de pagina
+\rfoot{\textcolor{gray}{Comunicaciones I - 2025}}
+\lfoot{\textcolor{gray}{Marcos Lucero - Nahuel Ramires - Agustín Cappiello}}
+\cfoot{\textcolor{gray}{\thepage}}  % Cambiar el número de página a gris
+
+
+\begin{document}
+    %caratula
+    \begin{titlepage}	  
+    		\centering
+    		
+    		% --- Logo UNSL ---		
+    		\begin{figure}
+    			\centering
+    			\includegraphics[width=0.15\linewidth]{caratula/logo-unsl.jpg}
+    		\end{figure}     
+    		
+    		% --- Datos de la asignatura ---
+    		{\scshape\LARGE Universidad Nacional de San Luis\\}
+    		{\scshape Facultad de Ciencias Físico Matemáticas y Naturales\par}
+    		{\scshape Ingeniería Electrónica con O.S.D.\par}
+    		\vspace{2cm} 
+    		
+    		\Large \textbf {Asignatura:\\} 
+    		\bigskip
+    		\LARGE {\Huge Comunicaciones I}
+    		\vspace{0.3cm}
+    		
+    		% --- Datos del informe / TP ---
+    		\LARGE \textbf {Trabajo Practico N° 2:\\} 
+    		\vspace{0.7cm}
+    		\LARGE \textbf {“Multipath, interferencias, rudio - Señales y Procesos Aleatorios”}
+
+    		\vspace{2cm}
+    		% --- Datos del alumno ---  
+    		\LARGE \textbf {Estudiantes:\\} 
+    		\LARGE Marcos Lucero \\ Nahuel Ramires\\ Agustín Cappiello\\
+    		\bigskip
+    		
+    		
+    		\vspace{1cm}
+    		
+    		% --- Datos de los profesores ---  
+    		\Large \textbf {Profesores Responsables:\\} 
+    		\bigskip
+    		\Large Alejandro Marwan Geraiges Magrini. \\ Roberto Kiessling.
+    		
+    		
+    		\vspace{3cm}
+    		
+    		% --- Año ---  
+    		\Large \textbf {Año:\\} 
+    		\Large 2025	
+    	\end{titlepage}
+    %fin caratula	
+    
+%   \tableofcontents %Para el indice
+
+ %   \include{actividad3}
+ %   \include{conclusion}
+    
+
+%\printbibliography[heading=bibintoc] % Agrega el título "Referencias" al índice automáticamente
+    
+\end{document}
