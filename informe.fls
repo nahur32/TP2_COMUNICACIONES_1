@@ -4,20 +4,28 @@ INPUT c:\Users\MARCOS\Desktop\TP2_COMUNICACIONES_1\TP2_COMUNICACIONES_1\informe.
 OUTPUT informe.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT .\librerias.tex
-INPUT .\librerias.tex
-INPUT .\librerias.tex
-INPUT .\librerias.tex
-INPUT librerias.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
@@ -62,16 +70,6 @@ INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
@@ -147,10 +145,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
@@ -248,9 +242,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT .\informe.aux
-INPUT .\informe.aux
-INPUT informe.aux
 OUTPUT informe.aux
 INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmlfutm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmlfutm.fd
@@ -278,52 +269,43 @@ INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 OUTPUT informe.bcf
-INPUT .\caratula\logo-unsl.jpg
-INPUT .\caratula\logo-unsl.jpg
-INPUT .\caratula\logo-unsl.jpg
-INPUT .\caratula\logo-unsl.jpg
-INPUT .\caratula\logo-unsl.jpg
-INPUT .\caratula\logo-unsl.jpg
-INPUT .\caratula\logo-unsl.jpg
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futrc8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futrc8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\fourier\ts1futs.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\fourier\ts1futs.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\fourier\ts1futs.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8c.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futrc8t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
 INPUT C:\Users\MARCOS\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futrc8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futrc8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futb8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futb8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futb8c.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-orns.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
-INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
-INPUT .\parte_teorica\Actividad_1.tex
-INPUT .\parte_teorica\Actividad_1.tex
 INPUT .\parte_teorica\Actividad_1.tex
 INPUT .\parte_teorica\Actividad_1.tex
 INPUT parte_teorica\Actividad_1.tex
@@ -349,7 +331,7 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msa.cfg
 INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msa.cfg
 INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msa.cfg
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
@@ -358,13 +340,13 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msb.cfg
 INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msb.cfg
 INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msb.cfg
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
 INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-eur.cfg
 INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-eur.cfg
 INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-eur.cfg
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
@@ -382,8 +364,19 @@ INPUT .\parte_teorica\grafico_532kHz.png
 INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmss.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmss.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmss.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss1095.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecsx1095.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss1000.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecsx1000.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futb8t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futmii.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mlit.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-ml.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futri8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futsy.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-ms.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mcl.tfm
