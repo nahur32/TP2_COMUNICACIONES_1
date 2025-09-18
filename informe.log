@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.22)  17 SEP 2025 21:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.22)  17 SEP 2025 22:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -928,7 +928,8 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (informe.aux)
+
+No file informe.aux.
 \openout1 = `informe.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -951,7 +952,7 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 22.
 LaTeX Font Info:    Trying to load font information for FML+futm on input line 22.
- (C:\Program Files\MiKTeX\tex/latex/fourier\fmlfutm.fd
+(C:\Program Files\MiKTeX\tex/latex/fourier\fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
 LaTeX Font Info:    ... okay on input line 22.
@@ -1151,10 +1152,10 @@ l.74 \]
 
  
 Here is how much of TeX's memory you used:
- 28481 strings out of 474486
- 540933 string characters out of 5753567
+ 28478 strings out of 474486
+ 540821 string characters out of 5753567
  1933542 words of memory out of 5000000
- 50260 multiletter control sequences out of 15000+600000
+ 50259 multiletter control sequences out of 15000+600000
  633025 words of font info for 164 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  80i,6n,84p,1070b,1047s stack positions out of 10000i,1000n,20000p,200000b,200000s
