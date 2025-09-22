@@ -1,253 +1,245 @@
-PWD c:\Users\nahur\OneDrive\Escritorio\Comunicaciones_1\TP2_COMUNICACIONES_1
-INPUT C:\Users\nahur\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\nahur\OneDrive\Escritorio\Comunicaciones_1\TP2_COMUNICACIONES_1\informe.tex
+PWD c:\Users\MARCOS\Desktop\TP2_COMUNICACIONES_1
+INPUT C:\Users\MARCOS\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\MARCOS\Desktop\TP2_COMUNICACIONES_1\informe.tex
 OUTPUT informe.log
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT .\librerias.tex
 INPUT .\librerias.tex
 INPUT .\librerias.tex
 INPUT .\librerias.tex
 INPUT librerias.tex
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyphenat\hyphenat.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyphenat\hyphenat.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\tools\enumerate.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\tools\enumerate.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\was\upgreek.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\was\upgreek.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\epsfig.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\epsfig.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\tools\xspace.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\tools\xspace.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fourier.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fourier.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\t1futs.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\t1futs.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\t1futs.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fourier-orns.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fourier-orns.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\steinmetz\steinmetz.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\steinmetz\steinmetz.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\pict2e.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\pict2e.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\pict2e.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\pict2e.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\pict2e.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\hyphenat\hyphenat.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyphenat\hyphenat.sty
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\was\upgreek.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\was\upgreek.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\epsfig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\epsfig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\xspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\xspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fourier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fourier.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\t1futs.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\t1futs.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\t1futs.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fourier-orns.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fourier-orns.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\steinmetz\steinmetz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\steinmetz\steinmetz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pict2e\pict2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pict2e\pict2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT .\informe.aux
 INPUT .\informe.aux
 INPUT informe.aux
@@ -260,24 +252,27 @@ INPUT parte_teorica\Actividad_2.aux
 INPUT .\parte_teorica\Actividad_5.aux
 INPUT .\parte_teorica\Actividad_5.aux
 INPUT parte_teorica\Actividad_5.aux
+INPUT .\parte_teorica\Actividad_6.aux
+INPUT .\parte_teorica\Actividad_6.aux
+INPUT parte_teorica\Actividad_6.aux
 OUTPUT informe.aux
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmlfutm.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmlfutm.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmlfutm.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmsfutm.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmsfutm.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmsfutm.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmxfutm.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmxfutm.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmxfutm.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmlfutm.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmlfutm.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmlfutm.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmsfutm.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmsfutm.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmsfutm.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmxfutm.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmxfutm.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmxfutm.fd
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT .\informe.out
 INPUT .\informe.out
 INPUT informe.out
@@ -286,12 +281,12 @@ OUTPUT informe.pdf
 INPUT .\informe.out
 INPUT .\informe.out
 OUTPUT informe.out
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Program Files\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Program Files\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 OUTPUT informe.bcf
 INPUT informe.bbl
 INPUT .\informe.bbl
@@ -305,95 +300,95 @@ INPUT .\caratula\logo-unsl.jpg
 INPUT .\caratula\logo-unsl.jpg
 INPUT .\caratula\logo-unsl.jpg
 INPUT .\caratula\logo-unsl.jpg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futrc8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futrc8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\ts1futs.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\ts1futs.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\ts1futs.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futb8c.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futrc8t.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
-INPUT C:\Users\nahur\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futrc8t.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futb8t.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futr8t.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futb8t.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futb8c.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-orns.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futr8t.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futr8t.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futrc8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futrc8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\ts1futs.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\ts1futs.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\ts1futs.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8c.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futrc8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Users\MARCOS\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futrc8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futb8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futb8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futb8c.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-orns.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
 INPUT .\parte_teorica\Actividad_1.tex
 INPUT .\parte_teorica\Actividad_1.tex
 OUTPUT parte_teorica\Actividad_1.aux
 INPUT .\parte_teorica\Actividad_1.tex
 INPUT .\parte_teorica\Actividad_1.tex
 INPUT parte_teorica\Actividad_1.tex
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmlfutmi.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmlfutmi.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fmlfutmi.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msa.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msa.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msa.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-eur.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-eur.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-eur.cfg
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmlfutmi.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmlfutmi.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\fourier\fmlfutmi.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msa.cfg
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msa.cfg
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msa.cfg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msb.cfg
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msb.cfg
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-msb.cfg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-eur.cfg
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-eur.cfg
+INPUT C:\Users\MARCOS\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-eur.cfg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
 INPUT .\parte_teorica\grafico_532kHz.png
 INPUT .\parte_teorica\grafico_532kHz.png
 INPUT .\parte_teorica\grafico_532kHz.png
@@ -401,29 +396,26 @@ INPUT .\parte_teorica\grafico_532kHz.png
 INPUT .\parte_teorica\grafico_532kHz.png
 INPUT .\parte_teorica\grafico_532kHz.png
 INPUT .\parte_teorica\grafico_532kHz.png
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmss.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmss.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmss.fd
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss1095.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx1095.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futb8t.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futr8t.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futmii.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-mlit.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-ml.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futri8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futr8t.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futsy.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-ms.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-mcl.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futmi.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futsy.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-ms.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-mcl.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss1095.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecsx1095.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futb8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futmii.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mlit.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-ml.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futri8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futsy.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-ms.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mcl.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futmi.vf
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futsy.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-ms.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mcl.tfm
 INPUT .\parte_teorica\grafico_600kHz.png
 INPUT .\parte_teorica\grafico_600kHz.png
 INPUT .\parte_teorica\grafico_600kHz.png
@@ -431,10 +423,10 @@ INPUT .\parte_teorica\grafico_600kHz.png
 INPUT .\parte_teorica\grafico_600kHz.png
 INPUT .\parte_teorica\grafico_600kHz.png
 INPUT .\parte_teorica\grafico_600kHz.png
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futmii.vf
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-mlit.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-ml.tfm
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futri8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futmii.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mlit.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-ml.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futri8r.tfm
 INPUT .\parte_teorica\Actividad_2.tex
 INPUT .\parte_teorica\Actividad_2.tex
 OUTPUT parte_teorica\Actividad_2.aux
@@ -468,6 +460,71 @@ INPUT .\parte_teorica\senalconruidoalto.png
 INPUT .\parte_teorica\senalconruidoalto.png
 INPUT .\parte_teorica\senalconruidoalto.png
 INPUT .\parte_teorica\senalconruidoalto.png
+INPUT .\parte_teorica\Actividad_6.tex
+INPUT .\parte_teorica\Actividad_6.tex
+OUTPUT parte_teorica\Actividad_6.aux
+INPUT .\parte_teorica\Actividad_6.tex
+INPUT .\parte_teorica\Actividad_6.tex
+INPUT parte_teorica\Actividad_6.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmii.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futsy.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mex.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futmi.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-bb.tfm
+INPUT .\parte_teorica\actividad6_pasabanda.jpg
+INPUT .\parte_teorica\actividad6_pasabanda.jpg
+INPUT .\parte_teorica\actividad6_pasabanda.jpg
+INPUT .\parte_teorica\actividad6_pasabanda.jpg
+INPUT .\parte_teorica\actividad6_pasabanda.jpg
+INPUT .\parte_teorica\actividad6_pasabanda.jpg
+INPUT .\parte_teorica\actividad6_pasabanda.jpg
+INPUT .\parte_teorica\actividad6_modulador.jpg
+INPUT .\parte_teorica\actividad6_modulador.jpg
+INPUT .\parte_teorica\actividad6_modulador.jpg
+INPUT .\parte_teorica\actividad6_modulador.jpg
+INPUT .\parte_teorica\actividad6_modulador.jpg
+INPUT .\parte_teorica\actividad6_modulador.jpg
+INPUT .\parte_teorica\actividad6_modulador.jpg
+INPUT .\parte_teorica\actividad6_pasabajo.jpg
+INPUT .\parte_teorica\actividad6_pasabajo.jpg
+INPUT .\parte_teorica\actividad6_pasabajo.jpg
+INPUT .\parte_teorica\actividad6_pasabajo.jpg
+INPUT .\parte_teorica\actividad6_pasabajo.jpg
+INPUT .\parte_teorica\actividad6_pasabajo.jpg
+INPUT .\parte_teorica\actividad6_pasabajo.jpg
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futb8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futb8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt-bold.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futmii.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-mlit.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-ml.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\futri8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\fourier\futr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
 INPUT informe.aux
 INPUT .\parte_teorica\Actividad_1.aux
 INPUT .\parte_teorica\Actividad_1.aux
@@ -478,23 +535,28 @@ INPUT parte_teorica\Actividad_2.aux
 INPUT .\parte_teorica\Actividad_5.aux
 INPUT .\parte_teorica\Actividad_5.aux
 INPUT parte_teorica\Actividad_5.aux
+INPUT .\parte_teorica\Actividad_6.aux
+INPUT .\parte_teorica\Actividad_6.aux
+INPUT parte_teorica\Actividad_6.aux
 INPUT .\informe.out
 INPUT .\informe.out
 INPUT informe.run.xml
 OUTPUT informe.run.xml
-INPUT C:\Users\nahur\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk
-INPUT C:\Users\nahur\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk
-INPUT C:\Users\nahur\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk
-INPUT C:\Users\nahur\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\public\fourier\fourier-ml.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\public\fourier\fourier-ml.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\public\fourier\fourier-mlit.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\public\fourier\fourier-mlit.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\public\fourier\fourier-ms.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\public\fourier\fourier-ms.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\adobe\utopia\putb8a.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\adobe\utopia\putb8a.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\adobe\utopia\putr8a.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\adobe\utopia\putr8a.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\adobe\utopia\putri8a.pfb
-INPUT C:\Users\nahur\AppData\Local\Programs\MiKTeX\fonts\type1\adobe\utopia\putri8a.pfb
+INPUT C:\Users\MARCOS\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk
+INPUT C:\Users\MARCOS\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk
+INPUT C:\Users\MARCOS\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk
+INPUT C:\Users\MARCOS\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\fourier\fourier-mex.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\fourier\fourier-mex.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\fourier\fourier-ml.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\fourier\fourier-ml.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\fourier\fourier-mlit.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\fourier\fourier-mlit.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\fourier\fourier-ms.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\fourier\fourier-ms.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\adobe\utopia\putb8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\adobe\utopia\putb8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\adobe\utopia\putr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\adobe\utopia\putr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\adobe\utopia\putri8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\adobe\utopia\putri8a.pfb
