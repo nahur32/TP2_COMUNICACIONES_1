@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.22)  22 SEP 2025 18:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.22)  22 SEP 2025 18:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1207,42 +1207,50 @@ Package pdftex.def Info: parte_teorica/senalconruidoalto.png  used on input line
 \openout2 = `parte_teorica/Actividad_6.aux'.
 
  (parte_teorica/Actividad_6.tex
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 4.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 4.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 4.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 4.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 4.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 4.
-<parte_teorica/actividad6_pasabanda.jpg, id=70, 829.0975pt x 683.55376pt>
+<act_4_sistema.jpg, id=73, 365.11406pt x 94.85437pt>
+File: act_4_sistema.jpg Graphic file (type jpg)
+<use act_4_sistema.jpg>
+Package pdftex.def Info: act_4_sistema.jpg  used on input line 12.
+(pdftex.def)             Requested size: 341.43306pt x 88.70573pt.
+<act4_pasabanda.jpg, id=74, 249.93375pt x 131.74219pt>
+File: act4_pasabanda.jpg Graphic file (type jpg)
+<use act4_pasabanda.jpg>
+Package pdftex.def Info: act4_pasabanda.jpg  used on input line 19.
+(pdftex.def)             Requested size: 170.71652pt x 89.98955pt.
+<act_4_pbajos.jpg, id=75, 146.79843pt x 127.97812pt>
+File: act_4_pbajos.jpg Graphic file (type jpg)
+<use act_4_pbajos.jpg>
+Package pdftex.def Info: act_4_pbajos.jpg  used on input line 26.
+(pdftex.def)             Requested size: 113.81102pt x 99.2191pt.
+<parte_teorica/actividad6_pasabanda.jpg, id=77, 829.0975pt x 683.55376pt>
 File: parte_teorica/actividad6_pasabanda.jpg Graphic file (type jpg)
 <use parte_teorica/actividad6_pasabanda.jpg>
-Package pdftex.def Info: parte_teorica/actividad6_pasabanda.jpg  used on input line 8.
+Package pdftex.def Info: parte_teorica/actividad6_pasabanda.jpg  used on input line 50.
 (pdftex.def)             Requested size: 199.16928pt x 164.20227pt.
-<parte_teorica/actividad6_modulador.jpg, id=71, 959.585pt x 698.61pt>
-File: parte_teorica/actividad6_modulador.jpg Graphic file (type jpg)
-<use parte_teorica/actividad6_modulador.jpg>
-Package pdftex.def Info: parte_teorica/actividad6_modulador.jpg  used on input line 15.
-(pdftex.def)             Requested size: 199.16928pt x 144.99617pt.
-<parte_teorica/actividad6_pasabajo.jpg, id=72, 783.92876pt x 751.80875pt>
-File: parte_teorica/actividad6_pasabajo.jpg Graphic file (type jpg)
-<use parte_teorica/actividad6_pasabajo.jpg>
-Package pdftex.def Info: parte_teorica/actividad6_pasabajo.jpg  used on input line 23.
-(pdftex.def)             Requested size: 199.16928pt x 191.00317pt.
-)
+
 
 [6
 
 
 
- <./parte_teorica/actividad6_pasabanda.jpg> <./parte_teorica/actividad6_modulador.jpg> <./parte_teorica/actividad6_pasabajo.jpg>]
+ <./act_4_sistema.jpg> <./act4_pasabanda.jpg> <./act_4_pbajos.jpg>]
+<parte_teorica/actividad6_modulador.jpg, id=88, 959.585pt x 698.61pt>
+File: parte_teorica/actividad6_modulador.jpg Graphic file (type jpg)
+<use parte_teorica/actividad6_modulador.jpg>
+Package pdftex.def Info: parte_teorica/actividad6_modulador.jpg  used on input line 79.
+(pdftex.def)             Requested size: 199.16928pt x 144.99617pt.
+<parte_teorica/actividad6_pasabajo.jpg, id=90, 783.92876pt x 751.80875pt>
+File: parte_teorica/actividad6_pasabajo.jpg Graphic file (type jpg)
+<use parte_teorica/actividad6_pasabajo.jpg>
+Package pdftex.def Info: parte_teorica/actividad6_pasabajo.jpg  used on input line 100.
+(pdftex.def)             Requested size: 199.16928pt x 191.00317pt.
 
-[7] (informe.aux
+
+[7 <./parte_teorica/actividad6_pasabanda.jpg> <./parte_teorica/actividad6_modulador.jpg>]
+
+[8 <./parte_teorica/actividad6_pasabajo.jpg>])
+
+[9] (informe.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -1258,17 +1266,17 @@ Package logreq Info: Writing requests to 'informe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29233 strings out of 468130
- 558252 string characters out of 5440697
- 1408954 words of memory out of 5000000
- 57182 multiletter control sequences out of 15000+600000
- 740605 words of font info for 284 fonts, out of 8000000 for 9000
+ 29193 strings out of 468130
+ 557727 string characters out of 5440697
+ 1409168 words of memory out of 5000000
+ 57159 multiletter control sequences out of 15000+600000
+ 711730 words of font info for 248 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 80i,6n,82p,1049b,1856s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\MARCOS\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\MARCOS\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-mex.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-ml.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-mlit.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-ms.pfb><C:/Program Files/MiKTeX/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on informe.pdf (8 pages, 1351782 bytes).
+ 80i,10n,82p,1049b,1856s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\MARCOS\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\MARCOS\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-bb.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-mex.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-ml.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-mlit.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-ms.pfb><C:/Program Files/MiKTeX/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on informe.pdf (10 pages, 1391652 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 88142 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
+ 71773 words of extra memory for PDF output out of 74296 (max. 10000000)
 
