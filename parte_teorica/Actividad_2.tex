@@ -1,0 +1,57 @@
+\section{Actividad 2}
+
+En un sistema determinado de comunicaciones, en el que una señal sinusoidal 
+\(x(t)=A\sin(2\pi f t)\) pasa a través de un filtro lineal de fase no constante. 
+La respuesta en frecuencia del filtro es 
+\(H(f)=|H(f)|\,e^{j\beta(f)}\), 
+donde \(\beta(f)=-\alpha f\) es la fase dependiente de la frecuencia.
+
+\[
+\tau_{p}=\frac{\beta(f)}{2\pi f}
+\qquad
+\tau_{g}=-\frac{1}{2\pi}\frac{d\beta(f)}{df}
+\]
+
+
+\noindent a) Calcular el retardo de fase y retardo de grupo.
+\bigskip
+
+\[
+\tau_p = \frac{\beta(f)}{2\pi f}
+       = \frac{-\alpha f}{2\pi f}
+       = -\frac{\alpha}{2\pi}
+\]
+
+\[
+\tau_g=-\frac{1}{2\pi}\frac{d\beta}{df}
+      =-\frac{1}{2\pi}(-\alpha)
+      =\frac{\alpha}{2\pi}
+\]
+\bigskip
+
+\noindent b) ¿El retardo de fase y el retardo de grupo es constante o depende de la frecuencia?
+\bigskip
+
+Ambos son constantes ya que son independientes de la frecuencia.
+
+
+
+\bigskip
+\noindent c) ¿Qué significa un retardo de grupo constante para la propagación de un paquete de ondas?
+\bigskip
+
+Un retardo de grupo constante significa que todas las componentes espectrales del paquete son retrasadas por la misma cantidad de tiempo.
+
+\bigskip
+\noindent d) ¿Cuál es la diferencia práctica entre el retardo de fase y el retardo de grupo en la transmisión de una señal modulada?
+\bigskip
+
+El retardo de fase se refiere al retraso o adelanto que sufre la fase de una componente sinusoidal de frecuencia.
+
+El retardo de grupo determina el retraso de la envolvente o del paquete de señales, por lo tanto es el que importa para la transmisión de información modulada (la moduladora se transporta por la envolvente).
+\bigskip
+
+\noindent e) Si a la salida del sistema de comunicaciones se obtiene una señal compuesta por múltiples frecuencias, ¿por qué es importante el retardo de grupo para mantener la forma de la señal en la salida del sistema?
+\bigskip
+
+Es importante el retardo de grupo cuando una señal está compuesta por múltiples frecuencias porque garantiza que la forma de la señal compuesta (su envolvente) se conserve al pasar por el sistema. Si no es constante, se produce dispersión y distorsión temporal.
