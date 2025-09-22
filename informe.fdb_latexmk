@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber informe"] 1758576821.52674 "informe.bcf" "informe.bbl" "informe" 1758576830.73412 0
-  "informe.bcf" 1758576830 108053 1931562b9a24e4c6de9d2d7368ff5b3a "pdflatex"
+["biber informe"] 1758576821.52674 "informe.bcf" "informe.bbl" "informe" 1758578078.97655 0
+  "informe.bcf" 1758578078 108053 1931562b9a24e4c6de9d2d7368ff5b3a "pdflatex"
   (generated)
   "informe.bbl"
   "informe.blg"
   (rewritten before read)
-["pdflatex"] 1758576827.31696 "c:/Users/MARCOS/Desktop/TP2_COMUNICACIONES_1/informe.tex" "informe.pdf" "informe" 1758576830.73493 0
+["pdflatex"] 1758578075.45355 "c:/Users/MARCOS/Desktop/TP2_COMUNICACIONES_1/informe.tex" "informe.pdf" "informe" 1758578078.97753 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecrm1095.tfm" 993062124 3172 eb6efaa83c6c52473a1c403f376eab0f ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecss1095.tfm" 993062234 3188 1aa640cd974697c5d1d4a3c92172a829 ""
@@ -175,19 +175,19 @@
   "act_4_sistema.jpg" 1758576692 10056 43810415c8c7c9f2fc5f208872fb54ce ""
   "c:/Users/MARCOS/Desktop/TP2_COMUNICACIONES_1/informe.tex" 1758552408 2913 4afae2caf73d4191f7fa23ebb1c481d7 ""
   "caratula/logo-unsl.jpg" 1758551052 142285 577e840c998f27f57c93e3bb0e857e89 ""
-  "informe.aux" 1758576830 635 15ae885b13d63c393f005cb1c0e34d04 "pdflatex"
+  "informe.aux" 1758578078 635 15ae885b13d63c393f005cb1c0e34d04 "pdflatex"
   "informe.bbl" 1758576823 0 d41d8cd98f00b204e9800998ecf8427e "biber informe"
-  "informe.out" 1758576830 404 0f7b32a0f3e48c8f204d210fa3a2d724 "pdflatex"
-  "informe.run.xml" 1758576830 2245 8abb3da92309ccea6277a35c95efbdba "pdflatex"
+  "informe.out" 1758578078 404 0f7b32a0f3e48c8f204d210fa3a2d724 "pdflatex"
+  "informe.run.xml" 1758578078 2245 8abb3da92309ccea6277a35c95efbdba "pdflatex"
   "informe.tex" 1758552408 2913 4afae2caf73d4191f7fa23ebb1c481d7 ""
   "librerias.tex" 1758551052 1369 de29f61d50c293cd1ddadc83ab627d7a ""
-  "parte_teorica/Actividad_1.aux" 1758576829 4447 b3d28f38ea2693e841fda866f1d3e19c "pdflatex"
+  "parte_teorica/Actividad_1.aux" 1758578077 4447 b3d28f38ea2693e841fda866f1d3e19c "pdflatex"
   "parte_teorica/Actividad_1.tex" 1758551052 2564 1f6e4828ace4b2472bf9c4beef85aace ""
-  "parte_teorica/Actividad_2.aux" 1758576829 4153 463980433624e5503d51458b0742d179 "pdflatex"
+  "parte_teorica/Actividad_2.aux" 1758578077 4153 463980433624e5503d51458b0742d179 "pdflatex"
   "parte_teorica/Actividad_2.tex" 1758551052 2204 b03b8716d785b887697a856a01556f1d ""
-  "parte_teorica/Actividad_5.aux" 1758576830 4601 3e66706df5a1db9052fe14bc24431121 "pdflatex"
-  "parte_teorica/Actividad_5.tex" 1758576549 3706 ca64c0d9480649cad5222df1836a1846 ""
-  "parte_teorica/Actividad_6.aux" 1758576830 5754 3c5c05941ec0feda5ede10de1c2cadc9 "pdflatex"
+  "parte_teorica/Actividad_5.aux" 1758578078 4601 3e66706df5a1db9052fe14bc24431121 "pdflatex"
+  "parte_teorica/Actividad_5.tex" 1758578074 3940 9cc2ab1e897e2342bdb0f24a37c350a7 ""
+  "parte_teorica/Actividad_6.aux" 1758578078 5754 3c5c05941ec0feda5ede10de1c2cadc9 "pdflatex"
   "parte_teorica/Actividad_6.tex" 1758576692 5754 80610ce9c89a663fa32b54a1fb2859ab ""
   "parte_teorica/actividad6_modulador.jpg" 1758551052 133106 8c0703d020a631375014cf0dbc105d78 ""
   "parte_teorica/actividad6_pasabajo.jpg" 1758551052 95213 3670446a46c8c2365aae8def3ca8858d ""

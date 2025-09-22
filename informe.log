@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.22)  22 SEP 2025 18:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.22)  22 SEP 2025 18:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1183,17 +1183,17 @@ Package pdftex.def Info: parte_teorica/grafico_600kHz.png  used on input line 97
 <parte_teorica/senalcompuesta.png, id=52, 1112.958pt x 534.19576pt>
 File: parte_teorica/senalcompuesta.png Graphic file (type png)
 <use parte_teorica/senalcompuesta.png>
-Package pdftex.def Info: parte_teorica/senalcompuesta.png  used on input line 12.
+Package pdftex.def Info: parte_teorica/senalcompuesta.png  used on input line 22.
 (pdftex.def)             Requested size: 341.43437pt x 163.87907pt.
 <parte_teorica/senalconruidobajo.png, id=53, 1132.83224pt x 534.19576pt>
 File: parte_teorica/senalconruidobajo.png Graphic file (type png)
 <use parte_teorica/senalconruidobajo.png>
-Package pdftex.def Info: parte_teorica/senalconruidobajo.png  used on input line 32.
+Package pdftex.def Info: parte_teorica/senalconruidobajo.png  used on input line 42.
 (pdftex.def)             Requested size: 341.43437pt x 161.00171pt.
 <parte_teorica/senalconruidoalto.png, id=54, 1126.2075pt x 531.78674pt>
 File: parte_teorica/senalconruidoalto.png Graphic file (type png)
 <use parte_teorica/senalconruidoalto.png>
-Package pdftex.def Info: parte_teorica/senalconruidoalto.png  used on input line 40.
+Package pdftex.def Info: parte_teorica/senalconruidoalto.png  used on input line 50.
 (pdftex.def)             Requested size: 341.43437pt x 161.22505pt.
 
 
@@ -1266,15 +1266,15 @@ Package logreq Info: Writing requests to 'informe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29193 strings out of 468130
- 557727 string characters out of 5440697
+ 29195 strings out of 468130
+ 557785 string characters out of 5440697
  1409168 words of memory out of 5000000
- 57159 multiletter control sequences out of 15000+600000
+ 57161 multiletter control sequences out of 15000+600000
  711730 words of font info for 248 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 80i,10n,82p,1049b,1856s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 80i,11n,82p,1049b,1856s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\MARCOS\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\MARCOS\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-bb.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-mex.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-ml.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-mlit.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fourier/fourier-ms.pfb><C:/Program Files/MiKTeX/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on informe.pdf (10 pages, 1391652 bytes).
+Output written on informe.pdf (10 pages, 1391953 bytes).
 PDF statistics:
  207 PDF objects out of 1000 (max. 8388607)
  26 named destinations out of 1000 (max. 500000)
