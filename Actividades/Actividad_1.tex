@@ -1,5 +1,16 @@
 \section{Actividad 1}
 
+\subsection*{Una antena transmisora emite una señal cosenoidal \( x(t) = A \cos(2\pi f_t t) \), donde \( A = 17 \, \text{W} \) y \( f_t = 532 \, \text{kHz} \). 
+La antena receptora capta dos señales provenientes de dicha antena transmisora. La primera de ellas recorre el camino directo, con una distancia recorrida 
+\( D_1 \). Mientras que la segunda, debido a una reflexión en un obstáculo, recorre una distancia \( D_2 \). Ambas señales sufren distintas atenuaciones, se 
+suponen que son también aproximadamente cosenoidales y que viajan a la velocidad de la luz en el vacío, no sufriendo ninguna distorsión en su recorrido. Para 
+el ejercicio debe considerarse los siguientes valores de atenuación y distancia:}
+
+\begin{align*}
+    A_1 &= 10\% & A_2 &= 25\% \\
+    D_1 &= 11 \, \text{km} & D_2 &= 14.5 \, \text{km}
+\end{align*}
+
 \subsection*{a) Si las señales recibidas se suman en la antena receptora. ¿Cuál es el resultado de esto? Graficar. }
 
 Las señales recibidas se expresan de la siguiente manera:
@@ -103,3 +114,60 @@ observa en la Fig. \ref{fig:600kHz}.
         \caption{Señal resultante a 600 kHz.}
         \label{fig:600kHz}
     \end{figure}
+
+
+\subsection*{c) Suponer que las señales sufren la misma atenuación. ¿Existe alguna frecuencia a la cual la señal recibida sea nula? Explicar el concepto.}
+
+Cuando ambas señales sufren la misma atenuación, sus amplitudes se igualan, creando las condiciones ideales para que ocurra \textbf{interferencia destructiva 
+total}. Para que la señal recibida sea nula, deben cumplirse dos condiciones fundamentales:
+
+    \begin{enumerate}
+        \item \textbf{Iguadad de amplitudes}: $A_1 = A_2$
+        \item \textbf{Desfase de 180°}: $\Delta\phi = (2k+1)\pi$ rad, donde $k = 0, 1, 2, \ldots$
+    \end{enumerate}
+
+La diferencia de fase entre ambas señales está determinada por la relación:
+
+    \[
+        \Delta\phi = 2\pi f \frac{\Delta D}{c}
+    \]
+
+Donde:
+    \begin{itemize}
+        \item $\Delta D = D_2 - D_1 = 3.5 \, \text{km} = 3500 \, \text{m}$
+        \item $c = 3 \times 10^8 \, \text{m/s}$
+    \end{itemize}
+
+Para obtener cancelación total:
+
+    \[
+        2\pi f \frac{\Delta D}{c} = (2k+1)\pi
+    \]
+
+Simplificando:
+
+    \[
+        2f \frac{\Delta D}{c} = 2k+1
+    \]
+
+    \[
+        f = \frac{(2k+1)c}{2\Delta D}
+    \]
+Calculando las primeras tres frecuencias críticas donde se produce cancelación total:
+    \begin{itemize}
+        \item $k = 0$: $f_0 = \dfrac{3 \times 10^8}{7000} \approx 42.857 \, \text{kHz}$
+        \item $k = 1$: $f_1 = \dfrac{3 \cdot 3 \times 10^8}{7000} \approx 128.571 \, \text{kHz}$
+        \item $k = 2$: $f_2 = \dfrac{5 \cdot 3 \times 10^8}{7000} \approx 214.286 \, \text{kHz}$
+    \end{itemize}
+
+El fenómeno descrito constituye un caso clásico de \textbf{interferencia por multitrayectoria} en sistemas de comunicaciones. Las frecuencias en las que se 
+produce cancelación total aparecen equiespaciadas en el dominio frecuencial, formando un patrón periódico cuya periodicidad depende directamente de la 
+diferencia de caminos $\Delta D$. Matemáticamente, existe un conjunto infinito y discreto de frecuencias críticas dadas por la expresión:
+
+\[
+f_k = \frac{(2k+1)c}{2\Delta D}, \quad k = 0, 1, 2, \ldots
+\]
+
+donde $c$ es la velocidad de la luz. Este resultado tiene implicancias directas en el diseño de sistemas de comunicación, donde resulta esencial evitar la 
+transmisión en dichas frecuencias críticas o, alternativamente, implementar técnicas de diversidad como el uso de múltiples antenas o saltos en frecuencia 
+para mitigar los efectos adversos de la interferencia por multitrayectoria.
