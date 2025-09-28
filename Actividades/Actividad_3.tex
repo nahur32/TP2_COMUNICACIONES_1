@@ -89,8 +89,18 @@ En la Fig.~\ref{fig:histograma} se muestra el histograma obtenido, donde se apre
     \label{fig:histograma}
 \end{figure}
 
-La media y la varianza empíricas calculadas a partir de las muestras resultan cercanas a los valores teóricos:
+La media empírica se calcula a partir de las muestras como:
 \[
-\bar{X} \approx 1, \qquad s^2 \approx 0.166.
+\bar{X} = \frac{1}{n}\sum_{i=1}^{n} x_i,
 \]
+y la varianza empírica mediante:
+\[
+s^2 = \frac{1}{n}\sum_{i=1}^{n} (x_i - \bar{X})^2.
+\]
+
+Al evaluar estas expresiones con las 500 muestras generadas, se obtienen valores numéricos que se aproximan a los resultados teóricos:
+\[
+\mu = 1, \qquad \sigma^2 = \tfrac{1}{6}.
+\]
+
 
